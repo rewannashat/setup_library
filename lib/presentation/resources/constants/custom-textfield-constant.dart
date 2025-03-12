@@ -75,7 +75,6 @@ class CustomTextFormField extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    MediaQueryData media = MediaQuery.of(context);
     return TextFormField(
       cursorColor:Colors.black ,
       onSaved: (val) => onSaved!(val),
