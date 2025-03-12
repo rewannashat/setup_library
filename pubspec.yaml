@@ -1,7 +1,6 @@
 name: testlibrary
-description: "A new Flutter project."
+description: A Flutter library for managing app themes, custom widgets, and shared utilities.
 
-publish_to: "https://pub.dev"
 
 version: 1.0.0+1
 
