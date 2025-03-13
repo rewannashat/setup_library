@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:testlibrary/presentation/resources/values_manager.dart';
+import 'package:setup_library/presentation/resources/values_manager.dart';
 
 import 'colors-manager.dart';
 import 'styles-manager.dart';
